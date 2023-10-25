@@ -1,0 +1,95 @@
+Module 1. Introduction to IBM  Cloud
+1.1. As a logical container for services, forming a key component of IAM
+1.2.Lite, Pay as You Go, and Subscription
+1.3.IBM Cloud Console, and IBM Cloud CLI
+1.4.HIPAA
+1.5.A region that is comprised of 3 or more zones that are independent from each other to ensure that single failure events affect only a single zone.
+
+GRADED QUIZ
+1.1 SaaS
+1.2 Premium
+1.3 A provisioned service
+1.4 Lite
+1.5 A region that is comprised of 3 or more zones that are independent from each other to ensure that single failure events affect only a single zone.
+
+MODULE 2.Infrastructure
+2.1 Bare metal
+2.2 Dedicated
+2.3 A self-service on-demand VMware cloud computing platform with VMware vCloud Director
+2.4 A secure, isolated private cloud hosted within a public cloud
+2.5 Cold vault
+
+GRADED QUIZ
+2.1 SDKs
+2.2 All of the above
+2.3 Reliable and secure options for Internet facing applications by using Cloudflare
+2.4 Up to 80 Gbps networking
+2.5 A bare metal solution with vCenter and vSphere options
+
+Modules 3. Deploying Application
+3.1 Packaging up application code and any dependencies
+3.2 An open source container orchestration platform
+3.3 Cloud Foundry
+3.4 All of the above
+3.5 OpenWhisk
+
+GRADED QUIZ
+3.1 Virtual server and Bare metal
+3.2 Cloud Container Registry and Helm Catalog
+3.3 Virtual server and Bare metal
+3.4 cf push
+3.5 Cloud Functions
+
+Module 4. Services on IBM cloud
+4.1 IBM Cloudant
+4.2 OpenShift
+4.3 Is a method for gleaning insights from structured and unstructured data using analytics to machine learning.
+4.4 A shared source of truth and the visibility into the history of an asset
+4.5 Automatically building and testing changes pushed to a code repository.
+
+GRADED QUIZ
+4.1 A set of practices that combine software development and business operations to shorten the development lifecycle and provide high quality software
+4.2 Cloudant, Object Storage, Event Streams, Db2 Warehouse
+4.3 Apache Spark and Apache Hadoop
+4.4 App Connect
+4.5 Messages for RabbitMQ
+
+IBM Cloud Essentials V3 Cognitive class final Exam Answers:-
+.1 IaaS
+.2 Subscription
+.3 Provides estimates based on local currency, if available
+.4 IBM Cloud Shell
+.5 IaaS
+.6 All of the above
+.7 Secure dedicated connectivity to IBM Cloud infrastructure
+.8 Block Storage
+.9 Zerto
+.10 Hyper Protect
+.11 Serverless, Pipelines, Mesh Networking, Operators
+.12 Automatic updates and patching
+.13 Automatic updates and patching
+.14 Projects, virtual machine support
+.15 Actions, Triggers, Sequences
+.16 Cognos Dashboard
+.17 Cognos Dashboard
+.18 Watson OpenScale
+.19 Watson OpenScale
+.20 MQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
